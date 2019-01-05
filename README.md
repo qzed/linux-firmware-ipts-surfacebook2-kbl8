@@ -28,8 +28,7 @@ _Other processor families require different firmware._
 Simply use the provided `PKGBUILD`, i.e. clone this repository and then, inside this source directory, run
 
 ```shell
-makepkg
-sudo pacman -U *.tar.xz
+makepkg -si
 ```
 
 If not present, install `linux-firmware` or an equivalent package as mentioned above.
