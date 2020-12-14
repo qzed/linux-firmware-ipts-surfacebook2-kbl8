@@ -3,7 +3,7 @@
 Intel Precise Touch & Stylus (IPTS) linux firmware for the Microsoft Surface Book 2 with 8th gen Kaby Lake CPU.
 
 This Package only provides the IPTS firmware.
-_Separate GuC firmware for `i915` and a compatible kernel (e.g. [this one][jakeday-linux-surface]) are required for full functionality._
+_Separate GuC firmware for `i915` and a compatible kernel (e.g. [this one][linux-surface]) are required for full functionality._
 This should usually be provided by your Linux distribution, i.e. for Arch Linux via the `linux-firmware` package (or equivalent).
 Specifically, the required files are
 
@@ -76,6 +76,7 @@ Anyone who can make use of these files needs specific hardware, which inherently
 [firmware-i915-kernel]: https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/tree/i915
 [firmware-i915-intel]: https://01.org/linuxgraphics/downloads/firmware
 [ipts-linux-wiki]: https://github.com/ipts-linux-org/ipts-linux-new/wiki
+[linux-surface]: https://github.com/linux-surface/linux-surface
 [jakeday-linux-surface]: https://github.com/jakeday/linux-surface
 [jakeday-linux-surface-firmware]: https://github.com/jakeday/linux-surface/tree/master/firmware
 [axelrtgs-linux-firmware]: https://github.com/axelrtgs/linux-firmware-ipts/tree/master/intel/ipts
