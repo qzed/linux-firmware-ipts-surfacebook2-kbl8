@@ -1,5 +1,9 @@
 # IPTS Firmware for the Microsoft Surface Book 2 (Kaby Lake, 8th Gen)
 
+_Note:_
+_This repository will no longer be updated._
+_Please refer to [github.com/linux-surface/surface-ipts-firmware](https://github.com/linux-surface/surface-ipts-firmware) instead._
+
 Intel Precise Touch & Stylus (IPTS) linux firmware for the Microsoft Surface Book 2 with 8th gen Kaby Lake CPU.
 
 This Package only provides the IPTS firmware.
